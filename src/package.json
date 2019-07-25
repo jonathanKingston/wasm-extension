@@ -1,0 +1,14 @@
+{
+  "name": "rust-component",
+  "collaborators": [
+    "Jonathan Kingston <jonathan@jooped.co.uk>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rust_component_bg.wasm",
+    "rust_component.js",
+    "rust_component.d.ts"
+  ],
+  "browser": "rust_component.js",
+  "types": "rust_component.d.ts"
+}
